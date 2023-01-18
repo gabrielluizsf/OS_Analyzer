@@ -1,9 +1,9 @@
-package analyzer
+package analyst
 
 import (
 	"fmt"
   "github.com/theGOURL/go_url/pkg/system"
-	"github.com/theGOURL/go_url/pkg/system/analyzer"
+  "github.com/theGOURL/go_url/pkg/system/analyzer"
 )
 
 // this function is the operating system analyst

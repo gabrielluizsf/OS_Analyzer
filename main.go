@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/theGOURL/OS_Analyzer/analyzer"
+	"github.com/theGOURL/OS_Analyzer/analyst"
 )
 
 func main(){
-  analyzer.OSAnalyzer();
+  analyst.OSAnalyzer();
 }
